@@ -1,0 +1,8 @@
+<Error>
+<Code>AccessDenied</Code>
+<Ret>-13</Ret>
+<Message>Are not authorized by bucket acl</Message>
+<BucketName>finalpage</BucketName>
+<RequestId>tx00000000000001bcb517b-0069a08629-40006bd-fbv6</RequestId>
+<HostId>40006bd-fbv6-default_zonegroup</HostId>
+</Error>
